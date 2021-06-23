@@ -1,0 +1,84 @@
+﻿  main.cpp
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\loadimage.h(1,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\main.cpp(11,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(27,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(661,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(666,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(671,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(683,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(688,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(693,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(706,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(711,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(716,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(728,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(733,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(738,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(779,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(1644,48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(1645,48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(1650,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(1665,48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(1696,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(1701,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(1706,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(1718,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(1723,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(1728,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(1741,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(1746,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(1751,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(1763,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(1768,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(1773,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(1803,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(2473,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(2480,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(2491,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(2499,48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(2508,48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(2523,52): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(2531,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(2540,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(2541,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(2557,48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(2565,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(2574,48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(2589,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(2597,48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(2606,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(2644,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(2874,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(2882,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(2890,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(2891,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(2900,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(2915,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(2923,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(2924,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(2933,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(2957,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\drawAnimatedAnimals.h(2988,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\main.cpp(32,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\main.cpp(282,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\main.cpp(291,97): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\main.cpp(478,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\main.cpp(1061,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\main.cpp(1077,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\main.cpp(1164,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\main.cpp(1169,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\main.cpp(1174,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\main.cpp(1186,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\main.cpp(1191,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\main.cpp(1196,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\main.cpp(1209,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\main.cpp(1214,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\main.cpp(1219,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\main.cpp(1231,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\main.cpp(1236,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\main.cpp(1241,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\main.cpp(1289,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\Debug\vc120.pdb'; linking object as if no debug info
+  COMP3011_Assignment_1.vcxproj -> C:\Users\limka\OneDrive\Desktop\testing2\COMP3011_Assignment_1\Debug\COMP3011_Assignment_1.exe
